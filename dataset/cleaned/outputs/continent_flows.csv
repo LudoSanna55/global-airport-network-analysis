@@ -1,0 +1,35 @@
+source_continent,target_continent,flow
+Africa,Africa,1966
+Africa,Asia,358
+Africa,Europe,787
+Africa,North America,21
+Africa,Oceania,5
+Africa,South America,7
+Asia,Africa,356
+Asia,Asia,17806
+Asia,Europe,1695
+Asia,North America,334
+Asia,Oceania,248
+Asia,South America,5
+Europe,Africa,792
+Europe,Asia,1690
+Europe,Europe,15360
+Europe,North America,971
+Europe,South America,93
+North America,Africa,24
+North America,Asia,337
+North America,Europe,973
+North America,North America,15382
+North America,Oceania,58
+North America,South America,289
+Oceania,Africa,5
+Oceania,Asia,249
+Oceania,North America,50
+Oceania,Oceania,1623
+Oceania,South America,5
+South America,Africa,7
+South America,Asia,5
+South America,Europe,93
+South America,North America,290
+South America,Oceania,5
+South America,South America,2370
